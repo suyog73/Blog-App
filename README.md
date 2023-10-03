@@ -72,3 +72,10 @@ Favorite Page (Favorite Blogs) | No Favorite Blogs Page
 <img src="assets/screenshots/FavoriteScreen.png" height="440">
 <img src="assets/screenshots/NoBlogsScreen.png" height="440">
 </p>
+
+### Offline Access
+
+Offline Blogs
+<p align="center">
+<img src="assets/screenshots/OfflineBlogs.png" height="440">
+</p>
