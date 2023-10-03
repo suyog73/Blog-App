@@ -61,14 +61,14 @@ Download Link:- [https://drive.google.com/file/d/19gA2Fm6xPHApqutiQIF6fj5XgX5xn6
 
 Landing Page (All Blogs) | Loading Blogs Page
 <p align="center">
-<img src="screenShots/LandingScreen.png" height="440">
-<img src="ScreenShots/LoadingScreen.png" height="440">
+<img src="assets/screenshots/LandingScreen.png" height="440">
+<img src="assets/screenshots/LoadingScreen.png" height="440">
 </p>
 
 ### Favorite Screen
 
 Favorite Page (Favorite Blogs) | No Favorite Blogs Page
 <p align="center">
-<img src="screenShots/FavoriteScreen.png" height="440">
-<img src="ScreenShots/NoBlogsScreen.png" height="440">
+<img src="assets/screenshots/FavoriteScreen.png" height="440">
+<img src="assets/screenshots/NoBlogsScreen.png" height="440">
 </p>
