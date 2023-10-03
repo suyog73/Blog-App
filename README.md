@@ -19,14 +19,14 @@ Before you start, make sure you have the following software installed on your sy
 
 
 ```bash
-git clone https://github.com/your-username/blog-explorer.git
+git clone https://github.com/suyog73/Blog-App.git
 ```
 
 2. Navigate to the project directory:
 
 
 ```bash
-cd blog_app
+cd Blog-App
 ```
 
 3. Create a .env file in the root directory of your Flutter project.
